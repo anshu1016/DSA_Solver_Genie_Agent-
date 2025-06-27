@@ -1,0 +1,6 @@
+autogen-agent
+autogen-core
+autogen_ext
+dotenv
+openai
+autogen-ext[docker]
