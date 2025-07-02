@@ -6,7 +6,7 @@ Welcome to **DSA Genie**, an AI-powered web app that converts Data Structures & 
 
 ## 📺 Demo Video
 
-👉 [Insert your video link here]
+👉 ![Video] (https://streamable.com/7umfjj)
 
 ---
 
@@ -14,8 +14,10 @@ Welcome to **DSA Genie**, an AI-powered web app that converts Data Structures & 
 
 _Add your screenshots below to showcase the UI and results._
 
-![HomePage](image.png)
-![Generated Code](image-1.png)
+![HomePage]<img width="955" alt="image" src="https://github.com/user-attachments/assets/23954d9c-6460-461e-b6e2-35057b9c5287" />
+
+![Generated Code]<img width="940" alt="image" src="https://github.com/user-attachments/assets/85edabb4-9461-47a7-884c-b412bfe46a9b" />
+
 
 ---
 
