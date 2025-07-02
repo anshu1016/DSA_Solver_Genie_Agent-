@@ -124,7 +124,7 @@ streamlit run DSA_Genie/app.py
 
 ## 🧑‍💻 Author
 
-**Arun Shukla** – [LinkedIn](https://www.linkedin.com/in/arunshukla1016)
+**Arun Shukla** – [LinkedIn](https://www.linkedin.com/in/arun-shukla-1399a9196/)
 
 ---
 
