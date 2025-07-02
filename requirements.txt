@@ -4,3 +4,5 @@ autogen_ext
 dotenv
 openai
 autogen-ext[docker]
+ipykernel
+streamlit
